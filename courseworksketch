@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T19:02:47.213Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="5idsSJK5_lUcuvxlDbfO" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-09T19:06:56.106Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="GC5eWs1YiW21BgkMTusX" version="13.9.2" type="github">
   <diagram id="3GYlwE6PlFGrom4-6reA" name="Page-1">
     <mxGraphModel dx="803" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -29,7 +29,7 @@
           <mxGeometry y="86" width="230" height="44" as="geometry" />
         </mxCell>
         <mxCell id="PO8OCiiBY9r7pcoh9qrO-9" value="Doctor" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="190" width="270" height="138" as="geometry" />
+          <mxGeometry x="60" y="190" width="270" height="138" as="geometry" />
         </mxCell>
         <mxCell id="PO8OCiiBY9r7pcoh9qrO-10" value="email, mobile, password, DOB, home address&#xa;DoctorID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PO8OCiiBY9r7pcoh9qrO-9">
           <mxGeometry y="26" width="270" height="34" as="geometry" />
@@ -40,17 +40,29 @@
         <mxCell id="PO8OCiiBY9r7pcoh9qrO-12" value="anything to declare eg criminal convictions. ID in&#xa;order to verify any information. Background&#xa;check" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PO8OCiiBY9r7pcoh9qrO-9">
           <mxGeometry y="86" width="270" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="PO8OCiiBY9r7pcoh9qrO-13" value="Booking System" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="PO8OCiiBY9r7pcoh9qrO-13" value="Booking Tracking System" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="410" width="230" height="112" as="geometry" />
         </mxCell>
         <mxCell id="PO8OCiiBY9r7pcoh9qrO-14" value="Patient ID, doctor ID, DateTime of &#xa;booking" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PO8OCiiBY9r7pcoh9qrO-13">
           <mxGeometry y="26" width="230" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="PO8OCiiBY9r7pcoh9qrO-15" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PO8OCiiBY9r7pcoh9qrO-13">
+        <mxCell id="PO8OCiiBY9r7pcoh9qrO-15" value="Doctor or Nurse, Video or In person" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PO8OCiiBY9r7pcoh9qrO-13">
           <mxGeometry y="60" width="230" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="PO8OCiiBY9r7pcoh9qrO-16" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PO8OCiiBY9r7pcoh9qrO-13">
+        <mxCell id="PO8OCiiBY9r7pcoh9qrO-16" value="Calendar of taken" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PO8OCiiBY9r7pcoh9qrO-13">
           <mxGeometry y="86" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PO8OCiiBY9r7pcoh9qrO-17" value="Nurse" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="190" width="300" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="PO8OCiiBY9r7pcoh9qrO-18" value="email, mobile, password, DOB, homeaddress, ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PO8OCiiBY9r7pcoh9qrO-17">
+          <mxGeometry y="26" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PO8OCiiBY9r7pcoh9qrO-19" value="detailed history" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PO8OCiiBY9r7pcoh9qrO-17">
+          <mxGeometry y="52" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PO8OCiiBY9r7pcoh9qrO-20" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PO8OCiiBY9r7pcoh9qrO-17">
+          <mxGeometry y="78" width="300" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
