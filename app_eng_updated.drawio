@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-26T15:43:42.934Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="kllNHQH5ra3GilsBy6es" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-26T15:46:20.550Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="PX-NXDUjAv_ArctaoB-H" version="14.2.6" type="github">
   <diagram id="EI-SLpZy4c11w0MKUhf8" name="Page-1">
     <mxGraphModel dx="1666" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,61 +31,61 @@
         <mxCell id="GBD44H0l0N1KtUBJfBsn-11" value="Sell services?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="210" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GBD44H0l0N1KtUBJfBsn-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GBD44H0l0N1KtUBJfBsn-12" value="Goods details" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="290" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GBD44H0l0N1KtUBJfBsn-13" value="Socials" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GBD44H0l0N1KtUBJfBsn-13" value="Social Media Form" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="290" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GBD44H0l0N1KtUBJfBsn-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GBD44H0l0N1KtUBJfBsn-14" value="Service details" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="290" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GBD44H0l0N1KtUBJfBsn-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GBD44H0l0N1KtUBJfBsn-15" value="Sell services?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="370" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GBD44H0l0N1KtUBJfBsn-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GBD44H0l0N1KtUBJfBsn-16" value="Service details" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="450" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GBD44H0l0N1KtUBJfBsn-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GBD44H0l0N1KtUBJfBsn-17" value="Social Media Form" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="520" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GBD44H0l0N1KtUBJfBsn-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GBD44H0l0N1KtUBJfBsn-18" value="Showcase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="600" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GBD44H0l0N1KtUBJfBsn-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GBD44H0l0N1KtUBJfBsn-19" value="Adverts?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="670" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GBD44H0l0N1KtUBJfBsn-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="730" width="90" height="40" as="geometry" />
+        <mxCell id="GBD44H0l0N1KtUBJfBsn-20" value="Tools?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="740" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GBD44H0l0N1KtUBJfBsn-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GBD44H0l0N1KtUBJfBsn-21" value="Finish" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="800" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GBD44H0l0N1KtUBJfBsn-22" value="Showcase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="370" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GBD44H0l0N1KtUBJfBsn-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GBD44H0l0N1KtUBJfBsn-23" value="Adverts?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="450" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GBD44H0l0N1KtUBJfBsn-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GBD44H0l0N1KtUBJfBsn-25" value="Business Tools?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="530" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GBD44H0l0N1KtUBJfBsn-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GBD44H0l0N1KtUBJfBsn-26" value="Finish" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="600" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GBD44H0l0N1KtUBJfBsn-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GBD44H0l0N1KtUBJfBsn-27" value="Social Media Form" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="370" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GBD44H0l0N1KtUBJfBsn-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GBD44H0l0N1KtUBJfBsn-28" value="Showcase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="450" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GBD44H0l0N1KtUBJfBsn-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GBD44H0l0N1KtUBJfBsn-29" value="Adverts?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="520" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GBD44H0l0N1KtUBJfBsn-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GBD44H0l0N1KtUBJfBsn-30" value="Tools?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="600" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GBD44H0l0N1KtUBJfBsn-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GBD44H0l0N1KtUBJfBsn-31" value="Finish" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="670" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
