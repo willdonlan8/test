@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T10:19:32.005Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="8GWwAJ3G9QsWjo1u3WV9" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T10:24:05.290Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="QoFkYbbf9hXGacjqIebq" version="14.2.7" type="github">
   <diagram id="EI-SLpZy4c11w0MKUhf8" name="Page-1">
     <mxGraphModel dx="1346" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,12 +19,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GBD44H0l0N1KtUBJfBsn-33" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+        <mxCell id="GBD44H0l0N1KtUBJfBsn-33" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="485" y="50" as="sourcePoint" />
-            <mxPoint x="655" y="80" as="targetPoint" />
+            <mxPoint x="740" y="90" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="655" y="50" />
+              <mxPoint x="740" y="50" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -40,8 +40,44 @@
         <mxCell id="PpAkLhA8qPiQrUPgmIep-5" value="About Me Photo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="400" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PpAkLhA8qPiQrUPgmIep-6" value="Registration form" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PpAkLhA8qPiQrUPgmIep-6" value="Sell Goods?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="470" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PpAkLhA8qPiQrUPgmIep-7" value="Sell Services?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="540" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PpAkLhA8qPiQrUPgmIep-8" value="Exit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="610" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PpAkLhA8qPiQrUPgmIep-9" value="Number of Goods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="470" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PpAkLhA8qPiQrUPgmIep-10" value="Goods details" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="540" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PpAkLhA8qPiQrUPgmIep-11" value="Sell Services?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="610" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PpAkLhA8qPiQrUPgmIep-12" value="Number of Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="540" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PpAkLhA8qPiQrUPgmIep-13" value="Service Details" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="610" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PpAkLhA8qPiQrUPgmIep-14" value="Number of Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="610" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PpAkLhA8qPiQrUPgmIep-15" value="Number of Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="680" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PpAkLhA8qPiQrUPgmIep-16" value="Social Media?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="680" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PpAkLhA8qPiQrUPgmIep-17" value="Social Media?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="750" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PpAkLhA8qPiQrUPgmIep-18" value="Social Media?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="680" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
