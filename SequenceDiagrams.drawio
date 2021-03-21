@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T09:40:18.826Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="c3xaQn5RZrPv2RoaAG4R" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-21T09:44:29.711Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="0-VcLr_PMJ7d4Nd-3KyD" version="14.4.8" type="github">
   <diagram id="CnfOrFKYSnfc5zZ2mO2H" name="Page-1">
     <mxGraphModel dx="2146" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,9 +33,79 @@
         </mxCell>
         <UserObject label="" lucidchartObjectId="MQdmsXt1-PA9" id="5O5dEE64mjgtuZj8x3xa-61">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=umlActor;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;whiteSpace=nowrap;whiteSpace=wrap;fontSize=13;spacingLeft=8.4;spacing=0;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#000000;strokeWidth=1.5;" vertex="1" parent="1">
-            <mxGeometry x="60" y="130" width="60" height="135" as="geometry" />
+            <mxGeometry x="60" y="130" width="50" height="100" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="d: Database Manager" lucidchartObjectId="MQdmAqv0ttIW" id="5O5dEE64mjgtuZj8x3xa-62">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=15;fontColor=#333333;fontStyle=1;spacingLeft=8.4;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#c8d9f9;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="710" y="130" width="120" height="73" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="g: GUI" lucidchartObjectId="MQdmAqv0ttIW" id="5O5dEE64mjgtuZj8x3xa-63">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=15;fontColor=#333333;fontStyle=1;spacingLeft=8.4;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#c8d9f9;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="540" y="130" width="120" height="73" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="g: GUI" lucidchartObjectId="MQdmAqv0ttIW" id="5O5dEE64mjgtuZj8x3xa-64">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=15;fontColor=#333333;fontStyle=1;spacingLeft=8.4;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#c8d9f9;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="365" y="130" width="120" height="73" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="g: GUI" lucidchartObjectId="MQdmAqv0ttIW" id="5O5dEE64mjgtuZj8x3xa-65">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=15;fontColor=#333333;fontStyle=1;spacingLeft=8.4;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#c8d9f9;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="190" y="130" width="120" height="73" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="MQdme0VbJFhK" id="5O5dEE64mjgtuZj8x3xa-66">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacingLeft=8.4;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#cccccc;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="242.5" y="240" width="15" height="285" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5O5dEE64mjgtuZj8x3xa-67" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="5O5dEE64mjgtuZj8x3xa-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="240" as="sourcePoint" />
+            <mxPoint x="300" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5O5dEE64mjgtuZj8x3xa-68" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5O5dEE64mjgtuZj8x3xa-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="470" as="sourcePoint" />
+            <mxPoint x="250" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5O5dEE64mjgtuZj8x3xa-69" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="510" as="sourcePoint" />
+            <mxPoint x="80" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5O5dEE64mjgtuZj8x3xa-70" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="290" as="sourcePoint" />
+            <mxPoint x="240" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5O5dEE64mjgtuZj8x3xa-71" value="Click on booking in &#39;bookings&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="250" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5O5dEE64mjgtuZj8x3xa-72" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="242.5" y="340" as="sourcePoint" />
+            <mxPoint x="82.5" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5O5dEE64mjgtuZj8x3xa-73" value="Display Booking to Review" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5O5dEE64mjgtuZj8x3xa-74" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="390" as="sourcePoint" />
+            <mxPoint x="241" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5O5dEE64mjgtuZj8x3xa-75" value="Leave Review then press &#39;Submit&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="350" width="130" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
