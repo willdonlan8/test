@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T15:27:38.525Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="JO0ZLp0T_Dkq2RjZIA55" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T15:29:22.516Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Fzuz93i5BkRG80MBJTbO" version="14.4.9" type="github">
   <diagram id="n9qWUOam9ZF6OnrzucKD" name="Page-1">
     <mxGraphModel dx="2131" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="XBuRLawrK7IfiwdRNRbU-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Post Request&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XBuRLawrK7IfiwdRNRbU-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;view request&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XBuRLawrK7IfiwdRNRbU-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;View Request&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XBuRLawrK7IfiwdRNRbU-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Hands Up&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -25,14 +25,14 @@
         <mxCell id="XBuRLawrK7IfiwdRNRbU-13" value="&lt;font style=&quot;font-size: 14px&quot;&gt;View Booking&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XBuRLawrK7IfiwdRNRbU-14" value="&lt;font style=&quot;font-size: 14px&quot;&gt;View Booking&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XBuRLawrK7IfiwdRNRbU-14" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Notification for job confirmed&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XBuRLawrK7IfiwdRNRbU-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#363636;shadow=0;fillColor=#080808;" parent="1" vertex="1">
           <mxGeometry x="135" y="60" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XBuRLawrK7IfiwdRNRbU-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;strokeColor=#363636;fillColor=#080808;" parent="1" vertex="1">
-          <mxGeometry x="115" y="990" width="50" height="50" as="geometry" />
+          <mxGeometry x="125" y="910" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XBuRLawrK7IfiwdRNRbU-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rounded_frame;dx=10;shadow=1;strokeColor=#363636;fillColor=#FAFAFA;" parent="1" vertex="1">
           <mxGeometry x="125" y="910" width="50" height="50" as="geometry" />
@@ -104,15 +104,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="550" as="sourcePoint" />
             <mxPoint x="440" y="500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XBuRLawrK7IfiwdRNRbU-38" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XBuRLawrK7IfiwdRNRbU-14" target="XBuRLawrK7IfiwdRNRbU-17" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="550" as="sourcePoint" />
-            <mxPoint x="410" y="940" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="410" y="935" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XBuRLawrK7IfiwdRNRbU-41" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;User: Requestor&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="1" vertex="1">
