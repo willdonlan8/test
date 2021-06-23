@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T14:05:02.425Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="QElvj6pcy6G_GQMJ1Maz" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-23T14:12:07.883Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="jgbAKQU5uMd6IZSn3mz6" version="14.8.0" type="github">
   <diagram id="Z6FLblsqwEbZB8-MIEmX" name="Page-1">
     <mxGraphModel dx="1426" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="290" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WztenFOhFq88HhkXIFKB-8" value="geolocationManager" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WztenFOhFq88HhkXIFKB-12" value="eventProcessor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1260" y="170" width="120" height="60" as="geometry" />
@@ -53,6 +53,42 @@
             <mxPoint x="610" y="155" as="targetPoint" />
             <Array as="points">
               <mxPoint x="350" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PzKoGRXP7hkJuMD49_y3-6" value="spatialDataView" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PzKoGRXP7hkJuMD49_y3-7" value="NeabyPlacesMapViewController" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="430" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PzKoGRXP7hkJuMD49_y3-8" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WztenFOhFq88HhkXIFKB-8" target="PzKoGRXP7hkJuMD49_y3-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="500" as="sourcePoint" />
+            <mxPoint x="780" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PzKoGRXP7hkJuMD49_y3-9" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PzKoGRXP7hkJuMD49_y3-7" target="WztenFOhFq88HhkXIFKB-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1130" y="380" as="sourcePoint" />
+            <mxPoint x="1020" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1138" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PzKoGRXP7hkJuMD49_y3-10" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="530" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PzKoGRXP7hkJuMD49_y3-14" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PzKoGRXP7hkJuMD49_y3-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="500" as="sourcePoint" />
+            <mxPoint x="940" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
