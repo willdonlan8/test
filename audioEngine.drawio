@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T14:38:38.464Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.8.2" etag="J5U5oQtfELER_DC2fkmw" type="github"><diagram id="P7BfTdcNpnVVDU7NFlVP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-30T14:47:03.717Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="AgnSflcjH4w_lmPs4epZ" version="14.8.2" type="github">
+  <diagram id="P7BfTdcNpnVVDU7NFlVP" name="Page-1">
+    <mxGraphModel dx="1906" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iVnk7hq0U0qIZl6_PHUW-1" value="" style="swimlane;startSize=0;dashed=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="570" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="iVnk7hq0U0qIZl6_PHUW-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="iVnk7hq0U0qIZl6_PHUW-1">
+          <mxGeometry x="30" y="350" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="iVnk7hq0U0qIZl6_PHUW-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;API GATEWAY&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="iVnk7hq0U0qIZl6_PHUW-1">
+          <mxGeometry x="60" y="100" width="80" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="iVnk7hq0U0qIZl6_PHUW-8" value="AUDIOENGINE.API" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="iVnk7hq0U0qIZl6_PHUW-1">
+          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iVnk7hq0U0qIZl6_PHUW-9" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Database_for_MySQL_servers.svg;strokeWidth=4;" vertex="1" parent="iVnk7hq0U0qIZl6_PHUW-1">
+          <mxGeometry x="440" y="165" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iVnk7hq0U0qIZl6_PHUW-6" value="" style="swimlane;startSize=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="90" width="180" height="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
