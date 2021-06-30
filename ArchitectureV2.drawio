@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T10:08:22.916Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Lgk5E-5hGfM5tvL-naai" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-30T10:09:12.856Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="aNgRG1no5o_ffU0rTU4Q" version="14.8.1" type="github">
   <diagram id="1-KV4tnupWiY3SJSiWC4" name="Page-1">
     <mxGraphModel dx="2916" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -278,6 +278,12 @@
         </mxCell>
         <mxCell id="dxAkiEXVRY7bYtoIrQMq-115" value="OpenStreetMap" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1570" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dxAkiEXVRY7bYtoIrQMq-116" value="&lt;b&gt;Okeena App??&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="390" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dxAkiEXVRY7bYtoIrQMq-117" value="&lt;b&gt;Demonstrator?&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="600" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
