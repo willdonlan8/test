@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T09:50:30.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="VwkDObhTH8PtF1drCpZi" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-30T09:50:49.731Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="PswnnabsnmNPWi5n6oin" version="14.8.1" type="github">
   <diagram id="1-KV4tnupWiY3SJSiWC4" name="Page-1">
     <mxGraphModel dx="2916" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -234,7 +234,7 @@
         <mxCell id="dxAkiEXVRY7bYtoIrQMq-93" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;SERVICES&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="dxAkiEXVRY7bYtoIrQMq-92">
           <mxGeometry x="110" y="10" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dxAkiEXVRY7bYtoIrQMq-94" value="Azure&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="dxAkiEXVRY7bYtoIrQMq-94" value="Azure Container Registry" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1020" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
