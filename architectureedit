@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T07:56:51.197Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Y6eUYeOJhxAAWmtMZz72" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-07T07:57:34.763Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="EEF_UsNGvVO-u34iJ6Jr" version="14.8.3" type="github">
   <diagram id="4y38vBLZtuepflv7yloy" name="Page-1">
     <mxGraphModel dx="2516" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -345,6 +345,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="470" as="sourcePoint" />
             <mxPoint x="260" y="578" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CQn5vLxxdt1giPGA3Irk-94" value="GeoLocationManager" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="270" width="270" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="CQn5vLxxdt1giPGA3Irk-95" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="440" as="sourcePoint" />
+            <mxPoint x="260" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
