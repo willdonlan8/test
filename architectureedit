@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T07:56:36.445Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="TcHDHP34k72ZsWmLSP0c" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-07T07:56:51.197Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Y6eUYeOJhxAAWmtMZz72" version="14.8.3" type="github">
   <diagram id="4y38vBLZtuepflv7yloy" name="Page-1">
     <mxGraphModel dx="2516" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,9 +63,6 @@
         <mxCell id="CQn5vLxxdt1giPGA3Irk-15" value="AppContext" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EA6B66;" vertex="1" parent="CQn5vLxxdt1giPGA3Irk-14">
           <mxGeometry x="240" y="250" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CQn5vLxxdt1giPGA3Irk-16" value="geoLocationManager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EA6B66;" vertex="1" parent="CQn5vLxxdt1giPGA3Irk-14">
-          <mxGeometry x="20" y="140" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="CQn5vLxxdt1giPGA3Irk-17" value="spatialDataContext" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EA6B66;" vertex="1" parent="CQn5vLxxdt1giPGA3Irk-14">
           <mxGeometry x="260" y="90" width="110" height="30" as="geometry" />
         </mxCell>
@@ -100,16 +97,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="460" as="sourcePoint" />
             <mxPoint x="296" y="122" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CQn5vLxxdt1giPGA3Irk-25" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;fillColor=#000000;exitX=0.094;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.836;entryY=1.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="CQn5vLxxdt1giPGA3Irk-14" source="CQn5vLxxdt1giPGA3Irk-15" target="CQn5vLxxdt1giPGA3Irk-16">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="460" as="sourcePoint" />
-            <mxPoint x="250" y="190" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="250" y="230" />
-              <mxPoint x="120" y="230" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CQn5vLxxdt1giPGA3Irk-26" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;fillColor=#000000;exitX=0.094;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.821;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="CQn5vLxxdt1giPGA3Irk-14" target="CQn5vLxxdt1giPGA3Irk-18">
