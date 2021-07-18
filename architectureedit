@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-18T11:09:42.242Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="edEkDosRCo7fbTu9oWe9" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-18T11:11:40.981Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="6VmeTXBPchWxS9cfDcrW" version="14.9.0" type="github">
   <diagram id="4y38vBLZtuepflv7yloy" name="Page-1">
     <mxGraphModel dx="2516" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -106,6 +106,21 @@
             <Array as="points">
               <mxPoint x="259.65999999999997" y="230.99" />
               <mxPoint x="160" y="231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D67VHP-cAHlszi71WzMP-10" value="geoLocation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EA6B66;" vertex="1" parent="CQn5vLxxdt1giPGA3Irk-14">
+          <mxGeometry x="40" y="140" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D67VHP-cAHlszi71WzMP-12" value="Bing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EA6B66;" vertex="1" parent="CQn5vLxxdt1giPGA3Irk-14">
+          <mxGeometry x="20" y="190" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D67VHP-cAHlszi71WzMP-15" value="" style="endArrow=classic;html=1;entryX=0.909;entryY=1.034;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="CQn5vLxxdt1giPGA3Irk-14" source="CQn5vLxxdt1giPGA3Irk-15" target="D67VHP-cAHlszi71WzMP-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="340" as="sourcePoint" />
+            <mxPoint x="210" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -358,6 +373,19 @@
         </mxCell>
         <mxCell id="D67VHP-cAHlszi71WzMP-8" value="&lt;b&gt;IMPORT&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="450" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D67VHP-cAHlszi71WzMP-9" value="&lt;b&gt;CORE SOUNDSCAPE&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="50" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D67VHP-cAHlszi71WzMP-14" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;fillColor=#000000;exitX=0.094;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="340" as="sourcePoint" />
+            <mxPoint x="400" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="499.65999999999997" y="320.99" />
+              <mxPoint x="400" y="321" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
