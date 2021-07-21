@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T11:12:08.345Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="3KmK0ylJREoGjCY63HvP" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T11:12:28.583Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="r2FnfKgkeAJJuYiTPhoP" version="14.9.0" type="github">
   <diagram id="4y38vBLZtuepflv7yloy" name="Page-1">
     <mxGraphModel dx="3129" dy="2341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
         <mxCell id="D67VHP-cAHlszi71WzMP-10" value="geoLocation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EA6B66;" parent="CQn5vLxxdt1giPGA3Irk-14" vertex="1">
           <mxGeometry x="40" y="140" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D67VHP-cAHlszi71WzMP-12" value="Bing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EA6B66;" parent="CQn5vLxxdt1giPGA3Irk-14" vertex="1">
+        <mxCell id="D67VHP-cAHlszi71WzMP-12" value="BingContext" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EA6B66;" parent="CQn5vLxxdt1giPGA3Irk-14" vertex="1">
           <mxGeometry x="20" y="190" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D67VHP-cAHlszi71WzMP-15" value="" style="endArrow=classic;html=1;entryX=0.909;entryY=1.034;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="CQn5vLxxdt1giPGA3Irk-14" source="CQn5vLxxdt1giPGA3Irk-15" target="D67VHP-cAHlszi71WzMP-12" edge="1">
