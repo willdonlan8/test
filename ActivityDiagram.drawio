@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T11:00:53.622Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="adZjrKTYVGu8x6PlgOZB" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-21T11:02:59.789Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="ZB0Ikng0KHMKmuEzweD1" version="15.2.9" type="github">
   <diagram id="jQZXFjo3gE5EWpctIJgx" name="Page-1">
     <mxGraphModel dx="1306" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -76,6 +76,30 @@
             <mxPoint x="278" y="530" as="sourcePoint" />
             <mxPoint x="330" y="480" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="J_TzvKWdbOUgN1X-5O3e-22" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="302.5" y="604.5" as="sourcePoint" />
+            <mxPoint x="397.5" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="397.5" y="605" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J_TzvKWdbOUgN1X-5O3e-23" value="Coordinate View" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="700" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J_TzvKWdbOUgN1X-5O3e-25" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="252.5" y="604.5" as="sourcePoint" />
+            <mxPoint x="200" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="605" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J_TzvKWdbOUgN1X-5O3e-27" value="STOP UPDATES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147.5" y="760" width="105" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
