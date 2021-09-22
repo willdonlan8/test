@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T11:01:06.201Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="YWxFRcLMNWnsuUO9eokb" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-22T11:05:44.809Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="Bf8am-i6bpIW-uTvP9iH" version="15.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1906" dy="1006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -199,6 +199,44 @@
         </mxCell>
         <mxCell id="s5jKz4ywExmh6HpJhAX0-54" value="tableView(_:cellForRowAt:)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="s5jKz4ywExmh6HpJhAX0-47">
           <mxGeometry y="152" width="250" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="s5jKz4ywExmh6HpJhAX0-67" value="SettingsViewController: Class" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="670" width="330" height="356" as="geometry">
+            <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s5jKz4ywExmh6HpJhAX0-68" value="setting1: UITextField!" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="s5jKz4ywExmh6HpJhAX0-67">
+          <mxGeometry y="26" width="330" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="s5jKz4ywExmh6HpJhAX0-69" value="button: UIButton!" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="s5jKz4ywExmh6HpJhAX0-67">
+          <mxGeometry y="52" width="330" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="s5jKz4ywExmh6HpJhAX0-70" value="setting2: UITextField!" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="s5jKz4ywExmh6HpJhAX0-67">
+          <mxGeometry y="78" width="330" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="s5jKz4ywExmh6HpJhAX0-81" value="button2: UIButton!" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="s5jKz4ywExmh6HpJhAX0-67">
+          <mxGeometry y="104" width="330" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="s5jKz4ywExmh6HpJhAX0-82" value="locationDistance: Double" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="s5jKz4ywExmh6HpJhAX0-67">
+          <mxGeometry y="130" width="330" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="s5jKz4ywExmh6HpJhAX0-83" value="headingFilter: Double" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="s5jKz4ywExmh6HpJhAX0-67">
+          <mxGeometry y="156" width="330" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="s5jKz4ywExmh6HpJhAX0-71" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="s5jKz4ywExmh6HpJhAX0-67">
+          <mxGeometry y="182" width="330" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="s5jKz4ywExmh6HpJhAX0-72" value="viewDidLoad()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="s5jKz4ywExmh6HpJhAX0-67">
+          <mxGeometry y="220" width="330" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="s5jKz4ywExmh6HpJhAX0-73" value="textField(_:shouldChangeCharactersIn: replacementString:)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="s5jKz4ywExmh6HpJhAX0-67">
+          <mxGeometry y="244" width="330" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="s5jKz4ywExmh6HpJhAX0-74" value="submitSetting()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="s5jKz4ywExmh6HpJhAX0-67">
+          <mxGeometry y="268" width="330" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="s5jKz4ywExmh6HpJhAX0-80" value="submitFilterSetting()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="s5jKz4ywExmh6HpJhAX0-67">
+          <mxGeometry y="292" width="330" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
